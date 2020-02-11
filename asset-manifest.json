@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactPWA/static/css/main.29097b8e.chunk.css",
+    "main.js": "/reactPWA/static/js/main.fa4da710.chunk.js",
+    "main.js.map": "/reactPWA/static/js/main.fa4da710.chunk.js.map",
+    "runtime-main.js": "/reactPWA/static/js/runtime-main.184ecb6d.js",
+    "runtime-main.js.map": "/reactPWA/static/js/runtime-main.184ecb6d.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/reactPWA/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.07b4f1c1.chunk.js": "/reactPWA/static/js/2.07b4f1c1.chunk.js",
+    "static/js/2.07b4f1c1.chunk.js.map": "/reactPWA/static/js/2.07b4f1c1.chunk.js.map",
+    "index.html": "/reactPWA/index.html",
+    "precache-manifest.98d8fa336860e34908f25d0006a21a74.js": "/reactPWA/precache-manifest.98d8fa336860e34908f25d0006a21a74.js",
+    "service-worker.js": "/reactPWA/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/reactPWA/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.29097b8e.chunk.css.map": "/reactPWA/static/css/main.29097b8e.chunk.css.map",
+    "static/js/2.07b4f1c1.chunk.js.LICENSE.txt": "/reactPWA/static/js/2.07b4f1c1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactPWA/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.184ecb6d.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.07b4f1c1.chunk.js",
+    "static/css/main.29097b8e.chunk.css",
+    "static/js/main.fa4da710.chunk.js"
+  ]
+}
